@@ -1,0 +1,9 @@
+teste php
+
+- fazer a conversão dos programas, utilizando o laravel
+- melhorar a responsividade, que deve atender desde monitores grandes a celulares
+- os campos de pesquisa (origem, tipo,grupo,familia,qualidade,unidade dde medida, codigo fiscal)
+  devem ser criados utilizando bd, json ou xml, como preferir
+- as querys no php hpje, no sistema, utilizam chamadas de procedures e devem ser mantidas assim
+  para facilitar o teste, pode ser feita a chamada no proprio php, mas deve ser feito e comentado
+  o formato de chamada de stored procedures para o sqlserver
